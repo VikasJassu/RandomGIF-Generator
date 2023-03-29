@@ -1,1 +1,2 @@
 # random-gifs
+This page is built using React and Tailwind. It generates random Gifs and it also takes input and can generate customize gif means we can generate Gif according to our choice. For Example if we click on random gif generate button then it generate random Gif/meme for us , if we search "Tiger" in input field then it generates gif of a tiger.So we can also generate Gif according to our choice.
